@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="keywords" content="Música, Music, Metal, Doom, Sludge, Shoegaze, Postmetal, Underground, Metal Mexicano, México">
+  <meta name="description" content=" Banda de Doom - Post Metal del la ciudad de Mexico.">
   <title>Menos Humanos | Música</title>
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
