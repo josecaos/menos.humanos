@@ -7,17 +7,15 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
   <meta name="keywords" content="Música, Music, Metal, Doom, Sludge, Shoegaze, Postmetal, Underground, Metal Mexicano, México">
   <meta name="description" content=" Banda de Doom - Post Metal del la ciudad de Mexico.">
-  <title>Menos Humanos | Música</title>
+  <title>Menos Humanos | Metal Mexicano</title>
   <link rel="stylesheet" href="assets/css/styles.css">
-  <!--  -->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170119600-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-170119600-1');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-170119600-1');
   </script>
   <!--  -->
 </head>
@@ -30,24 +28,24 @@
       </div>
 
       <!-- <div class="redes">
-        <ul>
-          <?php
-          //$redes = array('instagram');
-          //$links = array('https://instagram.com');
-          // for ($i=0; $i < count($redes) ; $i++):
-            ?>
+      <ul>
+      <?php
+      //$redes = array('instagram');
+      //$links = array('https://instagram.com');
+      // for ($i=0; $i < count($redes) ; $i++):
+      ?>
 
-            <li>
-              <p>
-                <a href="<?php //echo $links; x?>"><?php //echo $redes[$i]; ?></a>
-              </p>
-            </li>
+      <li>
+      <p>
+      <a href="<?php //echo $links; x?>"><?php //echo $redes[$i]; ?></a>
+    </p>
+  </li>
 
-          <?php //endfor; ?>
-        </ul>
-      </div> -->
-    </div>
+  <?php //endfor; ?>
+</ul>
+</div> -->
+</div>
 
-  </section>
+</section>
 </body>
 </html>
