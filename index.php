@@ -9,6 +9,17 @@
   <meta name="description" content=" Banda de Doom - Post Metal del la ciudad de Mexico.">
   <title>Menos Humanos | Música</title>
   <link rel="stylesheet" href="assets/css/styles.css">
+  <!--  -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170119600-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-170119600-1');
+  </script>
+  <!--  -->
 </head>
 <body>
   <section id="portada">
